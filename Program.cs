@@ -263,9 +263,9 @@ else
 
         if (playerChoise == 3 && randomNumber == 1)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Red;
 
-            Console.WriteLine("Tkven Moiget Furceli Amarcxebs Chas");
+            Console.WriteLine("Tkven Waaget Furceli Amarcxebs Chas");
             Console.ForegroundColor = ConsoleColor.White;
 
         }
